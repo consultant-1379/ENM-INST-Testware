@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ENMInst - Deliverance">
+    <test name="ENMInst Functional Test" verbose="2">
+        <classes>
+            <!--<class name="com.ericsson.itpf.deployment.test.cases.ChangeDefaultPasswordsOnBlades" />-->
+            <!--<class name="com.ericsson.itpf.deployment.test.cases.ENMInstallationDocument_FunctionalTest" />-->
+            <!-- class name="com.ericsson.itpf.deployment.test.operators.impl.ENMInstallationDocumentOperatorImplImpl" / -->
+            <!-- class name="com.ericsson.itpf.deployment.test.operators.ENMInstallationDocumentOperator / -->
+
+            <class name="com.ericsson.itpf.deployment.test.cases.VerifyBladesDeployed_FunctionalTest" />
+            <class name="com.ericsson.itpf.deployment.test.cases.ENMVersion_FunctionalTest"/>
+            <class name="com.ericsson.itpf.deployment.test.cases.VerifyFileSystems"/>
+            <class name="com.ericsson.itpf.deployment.test.cases.ExecutionOfLinuxCommand_FunctionalTest" />
+            <class name="com.ericsson.itpf.deployment.test.cases.VerifyPlanCompletedSuccessfully_FunctionalTest"/>
+            <class name="com.ericsson.itpf.deployment.test.cases.VerifyVirtualMachines"/>
+        </classes>
+    </test>
+</suite>

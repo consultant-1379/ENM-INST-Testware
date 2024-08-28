@@ -1,0 +1,15 @@
+Label,Regexp
+ENM product versions,
+LITP Release info,.*LITP.*CSA.*
+LITP versions,
+LITP2,.*CXP9030418.*
+Add-on packages,
+ERICenminst,.*CXP9030877.*
+ENM Version info,.*ENM.*ISO.*Version.*
+ENM History info,.*ENM.*ISO.*Version.*
+ENM Software packages,
+ENM VM services,
+VM service,.*sso.*
+vm-package,.*ERICenmsgsso_CXP9031582.*
+dependencies,
+ERICsinglesignon_CXP9031664,

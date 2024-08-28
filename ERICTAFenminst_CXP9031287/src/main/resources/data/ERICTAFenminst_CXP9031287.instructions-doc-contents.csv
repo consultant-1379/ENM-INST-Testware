@@ -1,0 +1,13 @@
+Host,Page,Content
+confluence,/display/EDA/3.1.2.+Prepare+the+kickstart+file,kickstart file
+confluence,/display/EDA/3.1.4.+Install+LITP+2+on+the+Management+Server,installer.sh
+confluence,/display/EDA/3.1.5.+Install+Navisphere+CLI+on+the+Management+Server,yum install -y
+confluence,/display/EDA/2.+Prerequisite+Actions+for+ENM+Installation,Disable Network Card
+confluence,/display/EDA/2.+Prerequisite+Actions+for+ENM+Installation,iLO License
+confluence,/display/EDA/2.+Prerequisite+Actions+for+ENM+Installation,Setting up HBA
+confluence,/display/EDA/3.1.4.+Install+LITP+2+on+the+Management+Server,litp show -p /
+confluence,/display/EDA/3.1.6.+Install+ENMInst+and+Deployment+Descriptions+on+the+Management+Server,/opt/ericsson/enminst
+confluence,/display/EDA/3.1.1.+Obtain+Required+ISOs%2C+Files+and+Site+Engineering+Document,Site Engineering Document
+confluence,/display/EDA/3.1.1.+Obtain+Required+ISOs%2C+Files+and+Site+Engineering+Document,LITP
+confluence,/display/EDA/3.1.1.+Obtain+Required+ISOs%2C+Files+and+Site+Engineering+Document,ENM ISO
+confluence,/display/EDA/3.1.1.+Obtain+Required+ISOs%2C+Files+and+Site+Engineering+Document,RedHat

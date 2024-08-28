@@ -1,0 +1,2 @@
+command,filesystem,mountpoint
+df.command,/dev/mapper/vg_root-lms_litp_vm,/var/lib/libvirt/images

@@ -1,0 +1,6 @@
+HostType,Command,Args,ExpectedOutput
+ms,list.dir,.,install.log
+ms,print.working.dir,,root
+ms,get.system,,Enterprise Linux Server release 6.6
+peer,print.working.dir,,litp-admin
+peer,get.system,,Enterprise Linux Server release 6.6
